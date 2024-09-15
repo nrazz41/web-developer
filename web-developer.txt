@@ -2,3 +2,4 @@ Menuju full stack
 -konsisten belajar php
 -konsisten belajar git dan githup
 -konsisten belajar framewoek 
+-intinya harus jadi web developer trus magang dipertamina
