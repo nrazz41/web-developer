@@ -1,0 +1,4 @@
+Menuju full stack
+-konsisten belajar php
+-konsisten belajar git dan githup
+-konsisten belajar framewoek 
